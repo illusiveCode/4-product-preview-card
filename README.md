@@ -13,7 +13,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ![Project-Screenshot](./screenshot.png)
 
-- Live Site URL: ()
+- Live Site URL: (https://fem-socialproofcomp.netlify.app/)
 
 ### Built with
 
